@@ -4,6 +4,8 @@
 Para ejecutar el sistema, debes poner:
 
 ```bash
-npm install react```
+npm install react
+
+```
 
 Sistema de Registro 2
